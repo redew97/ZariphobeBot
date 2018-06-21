@@ -22,7 +22,7 @@ function respond() {
 function postMessage() {
   var botResponse, options, body, botReq;
 
-  botResponse = "FUCK OFF TEMPBOT! YOU TALENTLESS HACK!";
+  botResponse = "TEMPBOT, YOU IGNORANT SLUT!";
 
   options = {
     hostname: 'api.groupme.com',
